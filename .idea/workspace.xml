@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89926b78-e805-4496-8050-4b7496563c1b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\ray\software\work\apache-maven-3.3.9\repository" />
+        <option name="mavenHome" value="C:/ray/software/work/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="C:\ray\software\work\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="210QIWEJkDpjes04J20GXEsOvIM" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserServiceApplication">
+    <configuration name="ActivityApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="activity-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.df.ray.activityapi.ActivityApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActivityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="activity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.df.ray.activity.ActivityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActivityServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="activity-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.df.ray.activityservice.ActivityServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.df.ray.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gate-way" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.df.ray.gateway.GateWayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.df.ray.userapi.UserApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.df.ray.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.df.ray.userservice.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89926b78-e805-4496-8050-4b7496563c1b" name="Default Changelist" comment="" />
+      <created>1637075445923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637075445923</updated>
+      <workItem from="1637075447572" duration="3197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2089" y="434" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637077355284">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2089" y="434" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1637077355284" />
+    <state x="2082" y="380" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1637077980597">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2082" y="380" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1637077980597" />
+    <state x="2132" y="389" key="FileChooserDialogImpl" timestamp="1637077455961">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2132" y="389" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1637077455961" />
+    <state width="2012" height="290" key="GridCell.Tab.0.bottom" timestamp="1637078482944">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2012" height="290" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1637078482944" />
+    <state width="2012" height="290" key="GridCell.Tab.0.center" timestamp="1637078482944">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2012" height="290" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1637078482944" />
+    <state width="2012" height="290" key="GridCell.Tab.0.left" timestamp="1637078482944">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2012" height="290" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1637078482944" />
+    <state width="2012" height="290" key="GridCell.Tab.0.right" timestamp="1637078482944">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2012" height="290" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1637078482944" />
+    <state width="2012" height="448" key="GridCell.Tab.1.bottom" timestamp="1637077116243">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2012" height="448" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1637077116243" />
+    <state width="2012" height="448" key="GridCell.Tab.1.center" timestamp="1637077116243">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2012" height="448" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1637077116243" />
+    <state width="2012" height="448" key="GridCell.Tab.1.left" timestamp="1637077116243">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2012" height="448" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1637077116243" />
+    <state width="2012" height="448" key="GridCell.Tab.1.right" timestamp="1637077116243">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2012" height="448" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1637077116243" />
+    <state width="2012" height="448" key="GridCell.Tab.2.bottom" timestamp="1637077116243">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2012" height="448" key="GridCell.Tab.2.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1637077116243" />
+    <state width="2012" height="448" key="GridCell.Tab.2.center" timestamp="1637077116243">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2012" height="448" key="GridCell.Tab.2.center/0.0.3440.1400@0.0.3440.1400" timestamp="1637077116243" />
+    <state width="2012" height="448" key="GridCell.Tab.2.left" timestamp="1637077116243">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2012" height="448" key="GridCell.Tab.2.left/0.0.3440.1400@0.0.3440.1400" timestamp="1637077116243" />
+    <state width="2012" height="448" key="GridCell.Tab.2.right" timestamp="1637077116243">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2012" height="448" key="GridCell.Tab.2.right/0.0.3440.1400@0.0.3440.1400" timestamp="1637077116243" />
+    <state x="1595" y="154" key="SettingsEditor" timestamp="1637077217964">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1595" y="154" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1637077217964" />
+    <state x="1746" y="350" key="new project wizard" timestamp="1637078241806">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1746" y="350" key="new project wizard/0.0.3440.1400@0.0.3440.1400" timestamp="1637078241806" />
+  </component>
+</project>
