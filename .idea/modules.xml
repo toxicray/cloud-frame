@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/cloud-frame.iml" filepath="$PROJECT_DIR$/.idea/cloud-frame.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/gate-way/gate-way.iml" filepath="$PROJECT_DIR$/gate-way/gate-way.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statement/statement.iml" filepath="$PROJECT_DIR$/statement/statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statement/statement-service/statement-service.iml" filepath="$PROJECT_DIR$/statement/statement-service/statement-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statement/statement_api/statement_api.iml" filepath="$PROJECT_DIR$/statement/statement_api/statement_api.iml" />
       <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
       <module fileurl="file://$PROJECT_DIR$/user/user-api/user-api.iml" filepath="$PROJECT_DIR$/user/user-api/user-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/user/user-service/user-service.iml" filepath="$PROJECT_DIR$/user/user-service/user-service.iml" />
