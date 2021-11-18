@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="user" />
         <module name="statement" />
+        <module name="boot-admin" />
         <module name="statement-service" />
         <module name="user-api" />
         <module name="eureka" />
         <module name="statement_api" />
         <module name="user-service" />
+        <module name="activity-api" />
         <module name="activity" />
         <module name="gate-way" />
         <module name="activity-service" />
@@ -22,6 +24,7 @@
       <module name="activity" target="1.5" />
       <module name="activity-api" target="1.8" />
       <module name="activity-service" target="1.8" />
+      <module name="boot-admin" target="1.8" />
       <module name="eureka" target="1.8" />
       <module name="gate-way" target="1.8" />
       <module name="statement" target="1.8" />
