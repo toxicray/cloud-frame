@@ -211,10 +211,14 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="2082" y="380" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1637081828509" />
-    <state x="186" y="0" key="CommitChangelistDialog2" timestamp="1637282587244">
+    <state x="186" y="0" key="CommitChangelistDialog2" timestamp="1637282638712">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1637282587244" />
+    <state x="186" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1637282638712" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1637282686315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1637282686315" />
     <state x="847" y="202" key="FileChooserDialogImpl" timestamp="1637222941745">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -285,10 +289,14 @@
     </state>
     <state x="46" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1637223635256" />
     <state x="1595" y="154" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1637079028861" />
-    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637282432274">
+    <state x="450" y="79" key="VCS.ChangeListViewerDialog" timestamp="1637282680201">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1637282432274" />
+    <state x="450" y="79" key="VCS.ChangeListViewerDialog/0.0.1366.728@0.0.1366.728" timestamp="1637282680201" />
+    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637282649097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1637282649097" />
     <state x="75" y="124" key="new project wizard" timestamp="1637220901551">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
