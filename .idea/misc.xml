@@ -16,6 +16,7 @@
         <option value="$PROJECT_DIR$/statement/pom.xml" />
         <option value="$PROJECT_DIR$/statement/statement_api/pom.xml" />
         <option value="$PROJECT_DIR$/statement/statement-service/pom.xml" />
+        <option value="$PROJECT_DIR$/activity/activity-api/pom.xml" />
       </list>
     </option>
   </component>

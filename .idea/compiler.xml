@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="user" />
         <module name="statement" />
+        <module name="activity-api" />
         <module name="statement-service" />
         <module name="user-api" />
         <module name="eureka" />

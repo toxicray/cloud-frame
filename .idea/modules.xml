@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/activity/activity.iml" filepath="$PROJECT_DIR$/activity/activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity/activity-api/activity-api.iml" filepath="$PROJECT_DIR$/activity/activity-api/activity-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/activity/activity-service/activity-service.iml" filepath="$PROJECT_DIR$/activity/activity-service/activity-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cloud-frame.iml" filepath="$PROJECT_DIR$/.idea/cloud-frame.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
