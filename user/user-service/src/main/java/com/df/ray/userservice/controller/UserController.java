@@ -2,7 +2,6 @@ package com.df.ray.userservice.controller;
 
 import com.df.ray.model.UserInfo;
 import com.df.ray.userapi.IFeignUserService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
