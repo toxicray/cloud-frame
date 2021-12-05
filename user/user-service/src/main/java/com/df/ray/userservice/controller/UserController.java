@@ -18,6 +18,9 @@ public class UserController implements IFeignUserService {
     @GetMapping("getUser")
     @Override
     public UserInfo getUserInfo() {
+        if ( true ) {
+            throw new IllegalArgumentException("异常");
+        }
         UserInfo userInfo = new UserInfo();
         userInfo.setName("tyrion");
         userInfo.setValue("value");
