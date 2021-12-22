@@ -26,11 +26,6 @@ public class UserController implements IFeignUserService {
 //        if ( true ) {
 //            throw new IllegalArgumentException("异常");
 //        }
-
-        ServletRequestAttributes requestAttributes = (ServletRequestAttributes) RequestContextHolder.getRequestAttributes();
-        HttpServletRequest request = requestAttributes.getRequest();
-        String trace_id = request.getHeader("trace_id");
-        String s = MDC.get(trace_id);
         UserInfo userInfo = new UserInfo();
         userInfo.setName("tyrion");
         userInfo.setValue("value");
