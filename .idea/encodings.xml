@@ -5,12 +5,15 @@
     <file url="file://$PROJECT_DIR$/activity/activity-api/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/activity/activity-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/activity/activity-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-admin/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gate-way/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gate-way/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/statement/statement-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/statement/statement-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/statement/statement_api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/user/user-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/user/user-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/user/user-service/src/main/resources" charset="UTF-8" />
